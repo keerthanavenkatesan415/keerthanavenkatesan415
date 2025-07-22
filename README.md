@@ -78,8 +78,6 @@ As a **Break Through Tech AI Fellow**, I’m working on interdisciplinary projec
 ---
 
 ## 📊 GitHub Stats
-
-![Keerthana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keerthanavenkatesan415&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthanavenkatesan415&layout=compact&theme=radical)
 
 ---
