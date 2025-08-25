@@ -84,5 +84,5 @@ As a **Break Through Tech AI Fellow**, I’m working on interdisciplinary projec
 
 ## ✨ Fun Fact
 
-You’ll usually find me sipping on a brown sugar matcha latte 🍵 while looking for new projects to apply my data analysis skills and curiosities by diving into data visualizations. When I need to recharge? A good k-drama, anime, or walk in the sunset cheers me right up!
+You’ll usually find me sipping on a brown sugar matcha latte 🍵 while looking for new projects to apply my data analysis skills and curiosities by diving into data visualizations. When I need to recharge? A good k-drama, anime, sitcom or walk in the sunset cheers me right up!
 
